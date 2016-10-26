@@ -21,7 +21,7 @@
 			var readerUI;
 
 //章节ID的本地存储
-			var chapter_id = parseInt(Util.StorageGetter('chapterId')) || 1;
+			var chapter_id;
 
 //字体大小的本地存储
 			var initFontSize = parseInt(Util.StorageGetter('test')) || 14;

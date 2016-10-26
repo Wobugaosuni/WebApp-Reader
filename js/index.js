@@ -1,5 +1,6 @@
 		(function(){
-//todo 整个项目的入口函数			
+//todo 整个项目的入口函数	
+			'use strict';		
 			function main(){
 				EventHandler();
 
