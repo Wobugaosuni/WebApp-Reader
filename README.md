@@ -1,5 +1,5 @@
-This is a Web App reader written in HTML5.New features related to the ES6 sytax,Ajax's asynchronous request,localStorage of HTML5 and so on.
+这个Web App阅读器是根据慕课网的课程完成的，其中应用到HTML5的本地存储技术、Ajax异步请求，ES6的promise等。
 
-![effect diagram](images/效果图1.png)
+clone下来，可以在本地服务器打开
 
-![effect diagram](images/效果图2.png)
+![effect diagram](images/效果动图.gif)
