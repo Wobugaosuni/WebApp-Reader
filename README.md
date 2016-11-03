@@ -2,6 +2,5 @@
 
 clone下来，可以在本地服务器打开
 
-![effect diagram](images/效果图1.png)
+![effect diagram](images/effect.gif)
 
-![effect diagram](images/效果图2.png)
