@@ -2,4 +2,4 @@
 
 clone下来，可以在本地服务器打开
 
-<img src="images/effect.gif" width = "250" height = "400" alt="d3" align=center />
+<img src="images/effect.gif" width = "300" height = "450" alt="d3" align=center />
