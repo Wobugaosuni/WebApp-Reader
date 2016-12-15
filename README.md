@@ -2,5 +2,4 @@
 
 clone下来，可以在本地服务器打开
 
-![effect diagram](images/effect.gif)
-
+<img src="images/effect.gif" width = "250" height = "400" alt="d3" align=center />
